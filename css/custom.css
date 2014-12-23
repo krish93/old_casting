@@ -1,0 +1,19 @@
+.box
+{
+  width:600px;
+  height:550px;
+  border: 1px solid black;
+  
+}
+.actual-box
+{
+  margin: 40px;
+  border: 1px solid black;
+  width: 520px;
+  height: 470px;
+}
+
+td,th
+{
+  text-align: center;
+}
